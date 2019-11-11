@@ -3,7 +3,6 @@ collection = []
 counter = 0
 while counter < array.length
   yield{collection << array[counter].upcase}
-  
-end
-end
 
+end
+end
